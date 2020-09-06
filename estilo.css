@@ -1,0 +1,67 @@
+
+
+*{ 
+	box-sizing: border-box;
+
+
+
+
+}
+
+body{
+
+ background: #fff;
+ color:black;
+ font-family: sans-serif;
+
+}
+
+form{
+
+	width: 400px;
+	margin: auto;
+	background: #eddf;
+	padding: 20px;
+	margin-top: 20px;
+	color: black;
+	border: 1px solid black;
+
+}
+
+label,input,p{
+
+width: 50%;
+display: block;
+font-size: 1.2em;
+
+}
+
+input{
+padding: 5px;
+margin-bottom: 20px;
+
+}
+
+input[type ="submit"]{
+	width: 80px;
+	margin: auto;
+	background: #333;
+	color: white;
+	border: none;
+	cursor: pointer;
+
+}
+.titulo{
+  font-family: verdana,Geneva;
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+
+
+}
+.error{
+	color: red;
+
+
+}
+
